@@ -1,0 +1,8 @@
+{
+    "testimoni":[
+        {"id":1, "nama":"Afiqur Rahman", "deskripsi":"Baru ngedip rumah langsung kinclong", "image":"afiq.jpg"},
+        {"id":2, "nama":"Mark Zukenberk", "deskripsi":"Kandang ayam saya bersih seketika", "image":"mark.jpg"},
+        {"id":3, "nama":"Jep Besos", "deskripsi":"Gorengan saya tambah laris karena bersih", "image":"jeff.jpg"}
+
+    ]
+}

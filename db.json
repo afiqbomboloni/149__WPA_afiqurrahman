@@ -1,0 +1,8 @@
+{
+    "works":[
+        {"id":1, "kategori":"Keluarga", "nama":"Cuci Motor", "image":"card.jpg"},
+        {"id":2, "kategori":"Keluarga", "nama":"Cuci Dapur", "image":"cuci.jpg"},
+        {"id":3, "kategori":"Usaha", "nama":"Cuci Kandang", "image":"kandang.jpg"},
+        {"id":4, "kategori":"Kantor", "nama":"Cuci Karpet", "image":"karpet.jpg"}
+    ]
+}
